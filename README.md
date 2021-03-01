@@ -6,7 +6,7 @@
 
 - 一键部署 V2ray 到 heroku。
 - 利用 Github action 实现 重新部署/停止/启动。
-- 利用 cloudflare CDN 进行加速。
+- 利用 cloudflare CDN 进行加速。.
 
 ```text
 项目Dockerfile是基于V2fly 官方镜像制作。仅仅增加生产配置文件的脚本。后续，可以通过Actions 实现更新。
